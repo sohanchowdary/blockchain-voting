@@ -130,9 +130,9 @@ python vosy_app/vosy.py
 
 this vosy will auto connect to local peer in address `0.0.0.0:5000`
 
-## Tutorial
 
-You can see [video demo](https://www.youtube.com/watch?v=CqNoDjuf6EE), or tutorials [part 1](https://medium.com/datadriveninvestor/build-a-blockchain-application-from-scratch-in-python-understanding-blockchain-1a6f1592e42a), [part 2(not ready now)]().
+
+
 
 It is simple architecture of my network
 
